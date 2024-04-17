@@ -1,5 +1,7 @@
 ### Colorful Golems Otto - Mana 0.2.14
 
+ <img src="https://staticdelivery.nexusmods.com/mods/6305/images/1/1-1713285235-1755290163.png" title="" alt="" width="">
+
 <br>
 
 > The purpose of this mod is to give Otto an alternative set of colorwaves
